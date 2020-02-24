@@ -1,0 +1,83 @@
+[33mcommit a2cb7e18cc05c08dca0ad72b6f5fcda4d143738f[m[33m ([m[1;36mHEAD -> [m[1;32mexample[m[33m)[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Mon Feb 24 23:45:29 2020 +0200
+
+    chenge docker file, added new feature
+
+[33mcommit 85470505f72abd4d86256171386c4538666b70c8[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Mon Feb 24 21:55:27 2020 +0200
+
+    finish create login and push
+
+[33mcommit 414cd0a3fe560f2a6ab8fccf973d62fd84583647[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Mon Feb 24 21:49:56 2020 +0200
+
+    add login and push to pipeline on dockerhub
+
+[33mcommit e60fed7b6b3f28379e50043ce8473248f91743a2[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Mon Feb 24 21:35:34 2020 +0200
+
+    add cred in dockerhub
+
+[33mcommit 0194a5a4eed9a1c57109ed829e4d32fe167c5f27[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Mon Feb 24 21:26:02 2020 +0200
+
+    added repo name to dockerhub
+
+[33mcommit 07985b62d03541483c3ab8d51fc72fca40c6bfed[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Mon Feb 24 21:13:37 2020 +0200
+
+    added docker tag
+
+[33mcommit 9226ed44cb0987eafbba69ba13b6779d76d6c5f1[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Sun Feb 23 22:07:23 2020 +0200
+
+    final 6 lesson
+
+[33mcommit e8449676c5c0142f5c3eac92e7b9591ec38b846b[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Sun Feb 23 21:55:21 2020 +0200
+
+    chenge stars
+
+[33mcommit 904146d52a8ef74e4d41d5a6c4d03a7239037262[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Sun Feb 23 21:51:59 2020 +0200
+
+    add tirggers
+
+[33mcommit 97bf4c0702fe3cf37095d2e9b8ca6c7d54d21d62[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Sun Feb 23 21:17:28 2020 +0200
+
+    change to latest
+
+[33mcommit 1f6ac40f177026b636cb1c483bfd841fef8bdf7a[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Fri Feb 21 21:46:24 2020 +0200
+
+    add docker
+
+[33mcommit 7cc0c2f2402064b6090429e2a36ea6232acdc448[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Fri Feb 21 21:41:32 2020 +0200
+
+    docker and jenkis 1
+
+[33mcommit 18471c62a254113ed4764065c521ede016a32fa7[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Thu Feb 20 19:50:14 2020 +0200
+
+    my ub1
+
+[33mcommit d95c59717b3ae2fd8c531075da0f769f2d2413c6[m
+Author: Jim Morrison <thedoors@protonmail.com>
+Date:   Thu Feb 20 19:42:27 2020 +0200
+
+    lesson4jenkinst
