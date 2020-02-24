@@ -27,8 +27,16 @@ pipeline {
                 echo " ============== start building image =================="
                 dir ('docker/toolbox') {
                 	sh 'docker build -t lizardkinggg/toolbox:latest . '
+ 		}
+            }
+        }
+        stage("docker push") {
+            steps {
+                echo " ============== start pushing image =================="
+                sh '''
+                docker push semaev/toolbox:1.15.1
+                '''
                 }
             }
         }
     }
-}
